@@ -8,6 +8,7 @@ public class Main {
                 .replace("[", "")
                 .replace("]", "\n"));
     }
+    # git test
 
     public static boolean winner(char[][] board, char c) {
         for (int i = 1, j = 2; i <= 3; i++) {
