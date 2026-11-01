@@ -12,7 +12,6 @@ public class Main {
 //        String inputString = scanner.nextLine();
 //        char myChar[] = inputString.toCharArray();
 //        for (int i=0 ;i<=8;i++){
-//            if(myChar[i]=='_'){
 //                myChar[i]=' ';
 //
 //            }
